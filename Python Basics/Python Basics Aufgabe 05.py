@@ -4,12 +4,12 @@ Siedepunkt zu 212 F festgelegt Schreiben Sie ein Programm, welches einen vom Ben
 Wert von C in F umrechnet F=c∗95+32
 """
 
-"""
+#geht auch 
+""" 
 c = float(input("Bitte Wert in °C angeben: "))
 f = c * (9/5) +32
 print(c, "°C sind",round(f,2),"°F")
 """
-
 
 # schöner ausgeführt
 c = float(input("Bitte Wert in °C angeben: "))
